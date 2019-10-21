@@ -32,7 +32,7 @@
 }
 
 .beg {
-    background: linear-gradient(to right rgb(177, 137, 137) rgb(43, 133, 35));
+    background: linear-gradient(to right, rgb(177, 137, 137), rgb(43, 133, 35));
     height: 100%;
     width: 100%;
     
